@@ -15,19 +15,19 @@ Users browse promotional banners, categories and products, and open product deta
 # Screenshots
 ![Home Screen](screenshots/home_interface.jpeg)
 
-Categories
+# Categories
 ![Accessories Categories.jpeg](screenshots/Accessories_categories.jpeg)
 ![Electronics Category.jpeg](screenshots/Electronics_category.jpeg)
 ![Fashion Category.jpeg](screenshots/Fashion_category.jpeg)
 ![Shoes Category](screenshots/Shoes_category.jpeg)
 
-Product Details
+# Product Details
 ![Gaming Laptop Details](screenshots/Gaming_Laptop_Details.jpeg)
 ![iPhone Details](screenshots/iphone_details.jpeg)
 
 # Packages Used
 * carousel slider - It is an auto playing promotional banner carousel
-
+[README.md](README.md)
 # How to run
 - Download the folder
 - Unzip it in a specific location
