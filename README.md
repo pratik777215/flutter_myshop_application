@@ -35,3 +35,6 @@ Users browse promotional banners, categories and products, and open product deta
 - Go to the terminal of Android Studio
 - Then run 'flutter pub get'
 - Then run 'flutter run'
+# flutter_myshop_application
+This is the application which name is myshop and it simply shows the details  of products and classify the types of products.
+
